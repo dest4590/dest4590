@@ -20,6 +20,9 @@
   <h3 align=center>others</h3>
   <p align=center>
     <a href="https://github.com/dest4590/CloudRPC" align=center><img src="https://github.com/user-attachments/assets/f7c2e2de-982f-4f91-b920-62b4cb8d4607" width="50" title="CloudRPC"></a>
+      <a href="https://github.com/AnarchyLoader/AnarchyLoader" align=center><img src="https://github.com/user-attachments/assets/35bca2fe-d90a-48ec-a1db-303854311e14" width="50" title="AnarchyLoader"></a>
+  
+
   </p>
 </p>
 
