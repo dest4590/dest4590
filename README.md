@@ -1,8 +1,3 @@
-<p align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=30&duration=1500&pause=1000&color=8E00FF&center=true&vCenter=true&width=435&lines=COLLAPSE+LOADER+CEO;TELEGRAM%3A+%40dest4590" alt="Typing SVG" /></a>
-</p>
-
-
 <h3 align=center>˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄</h3>
 <h3 align=center>| ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ My projects ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ |</h1>
 <h3 align=center>˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅</h3>
@@ -26,6 +21,26 @@
   </p>
 </p>
 
+<h3 align=center>˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄</h3>
+<h3 align=center>| ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ Other info ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ |</h1>
+<h3 align=center>˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅</h3>
+
 <p>
   <h3 align=center>My public GPG key <code>0DD7D847</code></h3>
+</p>
+
+<p>
+  <h3 align=center>Workspace:</h3>
+
+  <h4 align=center>˅˅˅ PC ˅˅˅</p>
+  <p align=center>CPU: AMD Ryzen 5 5600x</p>
+  <p align=center>GPU: GTX 1080 Ti</p>
+  <p>^^^^^^^^</p>
+
+  <h4 align=center>˅˅˅ Apps ˅˅˅</p>
+  <p align=center>Reversing: Recaf, binary ninja, ida pro, detect it easy</p>
+  <p align=center>Coding: VSCode, Visual Studio</p>
+  <p>^^^^^^^^</p>
+
+  
 </p>
