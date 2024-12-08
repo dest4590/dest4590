@@ -38,7 +38,7 @@
   <p>^^^^^^^^</p>
 
   <h4 align=center>˅˅˅ Apps ˅˅˅</p>
-  <p align=center>Reversing: Recaf, binary ninja, ida pro, detect it easy</p>
+  <p align=center>Reversing: recaf, binary ninja, ida pro, detect it easy</p>
   <p align=center>Coding: VSCode, Visual Studio</p>
   <p>^^^^^^^^</p>
 
