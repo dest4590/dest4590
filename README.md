@@ -5,7 +5,12 @@
 <h5 align=center>just click on them</h5>
 
 <p align=center>
-  <h3 align=center>collapse</h3>
+  <h3 align=center>anarchy</h3>
+  <p align=center>
+<a href="https://github.com/AnarchyLoader/AnarchyLoader" align=center><img src="https://github.com/user-attachments/assets/35bca2fe-d90a-48ec-a1db-303854311e14" width="50" title="AnarchyLoader"></a>
+  </p>
+  
+  <h3 align=center>collapse (closed)</h3>
   <p align=center>
     <a href="https://github.com/dest4590/CollapseLoader" align=center><img src="https://github.com/user-attachments/assets/e072beab-4bba-46f4-b1d2-6016cfbb2ca2" width="50" title="CollapseLoader"></a>
     <a href="https://github.com/dest4590/CollapseWeb" align=center><img src="https://github.com/user-attachments/assets/540fb64d-96ab-4224-b120-c4c291b45fd7" width="50" title="CollapseWeb"></a>
@@ -15,9 +20,6 @@
   <h3 align=center>others</h3>
   <p align=center>
     <a href="https://github.com/dest4590/CloudRPC" align=center><img src="https://github.com/user-attachments/assets/f7c2e2de-982f-4f91-b920-62b4cb8d4607" width="50" title="CloudRPC"></a>
-      <a href="https://github.com/AnarchyLoader/AnarchyLoader" align=center><img src="https://github.com/user-attachments/assets/35bca2fe-d90a-48ec-a1db-303854311e14" width="50" title="AnarchyLoader"></a>
-  
-
   </p>
 </p>
 
