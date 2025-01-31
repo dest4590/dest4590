@@ -11,7 +11,7 @@
     <a href="https://github.com/AnarchyLoader/AnarchyInjector" align=center><img src="https://github.com/user-attachments/assets/db8166bf-bd13-4635-9618-b81e291d1a61" width="50" title="AnachyInjector"></a>
   </p>
   
-  <h3 align=center>collapse (closed)</h3>
+  <h3 align=center>collapse</h3>
   <p align=center>
     <a href="https://github.com/dest4590/CollapseLoader" align=center><img src="https://github.com/user-attachments/assets/e072beab-4bba-46f4-b1d2-6016cfbb2ca2" width="50" title="CollapseLoader"></a>
     <a href="https://github.com/dest4590/CollapseWeb" align=center><img src="https://github.com/user-attachments/assets/540fb64d-96ab-4224-b120-c4c291b45fd7" width="50" title="CollapseWeb"></a>
