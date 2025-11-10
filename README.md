@@ -5,7 +5,7 @@
 <h5 align=center>just click on them</h5>
 
 <p align=center>
-  <h3 align=center>collapse (main)</h3>
+  <h3 align=center>CollapseLoader</h3>
   <p align=center>
     <a href="https://github.com/dest4590/CollapseLoader" align=center><img src="https://github.com/user-attachments/assets/e072beab-4bba-46f4-b1d2-6016cfbb2ca2" width="50" title="CollapseLoader"></a>
     <a href="https://github.com/dest4590/CollapseWeb" align=center><img src="https://github.com/user-attachments/assets/540fb64d-96ab-4224-b120-c4c291b45fd7" width="50" title="CollapseWeb"></a>
