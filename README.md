@@ -20,6 +20,7 @@
   
   <h3 align=center>others</h3>
   <p align=center>
+    <a href="https://github.com/dest4590/ProjectMycelium" align=center><img src="https://github.com/user-attachments/assets/1656a022-776e-45e8-9f74-d46ae3296136" width="50" title="ProjectMycelium"></a>
     <a href="https://github.com/dest4590/CloudRPC" align=center><img src="https://github.com/user-attachments/assets/f7c2e2de-982f-4f91-b920-62b4cb8d4607" width="50" title="CloudRPC"></a>
   </p>
 </p>
