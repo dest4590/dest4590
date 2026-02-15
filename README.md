@@ -12,7 +12,7 @@
     <a href="https://github.com/CollapseLoader/CollapseScanner" align=center><img src="https://github.com/user-attachments/assets/e60db9a3-a2a1-4772-8732-dede4cd7ca2a" width="50" title="CollapseScanner"></a>
   </p>
   
-  <h3 align=center>anarchy (deprecated)</h3>
+  <h3 align=center>AnarchyLoader</h3>
   <p align=center>
     <a href="https://github.com/AnarchyLoader/AnarchyLoader" align=center><img src="https://github.com/user-attachments/assets/35bca2fe-d90a-48ec-a1db-303854311e14" width="50" title="AnarchyLoader"></a>
     <a href="https://github.com/AnarchyLoader/AnarchyInjector" align=center><img src="https://github.com/user-attachments/assets/db8166bf-bd13-4635-9618-b81e291d1a61" width="50" title="AnachyInjector"></a>
