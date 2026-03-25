@@ -1,26 +1,53 @@
-<h3 align=center>˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄</h3>
-<h3 align=center>| ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ My projects ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ |</h1>
-<h3 align=center>˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅</h3>
+<h3 align="center">˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄</h3>
+<h3 align="center">| ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ My Projects ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ |</h3>
+<h3 align="center">˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅</h3>
 
-<h5 align=center>just click on them</h5>
-
-<p align=center>
-  <h3 align=center>CollapseLoader</h3>
-  <p align=center>
-    <a href="https://github.com/dest4590/CollapseLoader" align=center><img src="https://github.com/user-attachments/assets/e072beab-4bba-46f4-b1d2-6016cfbb2ca2" width="50" title="CollapseLoader"></a>
-    <a href="https://github.com/dest4590/CollapseWeb" align=center><img src="https://github.com/user-attachments/assets/540fb64d-96ab-4224-b120-c4c291b45fd7" width="50" title="CollapseWeb"></a>
-    <a href="https://github.com/CollapseLoader/CollapseScanner" align=center><img src="https://github.com/user-attachments/assets/e60db9a3-a2a1-4772-8732-dede4cd7ca2a" width="50" title="CollapseScanner"></a>
-  </p>
-  
-  <h3 align=center>AnarchyLoader</h3>
-  <p align=center>
-    <a href="https://github.com/AnarchyLoader/AnarchyLoader" align=center><img src="https://github.com/user-attachments/assets/35bca2fe-d90a-48ec-a1db-303854311e14" width="50" title="AnarchyLoader"></a>
-    <a href="https://github.com/AnarchyLoader/AnarchyInjector" align=center><img src="https://github.com/user-attachments/assets/db8166bf-bd13-4635-9618-b81e291d1a61" width="50" title="AnachyInjector"></a>
-  </p>
-  
-  <h3 align=center>others</h3>
-  <p align=center>
-    <a href="https://github.com/dest4590/ProjectMycelium" align=center><img src="https://github.com/user-attachments/assets/1656a022-776e-45e8-9f74-d46ae3296136" width="50" title="ProjectMycelium"></a>
-    <a href="https://github.com/dest4590/CloudRPC" align=center><img src="https://github.com/user-attachments/assets/f7c2e2de-982f-4f91-b920-62b4cb8d4607" width="50" title="CloudRPC"></a>
-  </p>
+<p align="center">
+  <sub>detailed overview of my work</sub>
 </p>
+
+---
+
+### 📦 Collapse Ecosystem
+<a href="https://github.com/dest4590/CollapseLoader"><img src="https://github.com/user-attachments/assets/e072beab-4bba-46f4-b1d2-6016cfbb2ca2" align="left" width="70"></a>
+**[CollapseLoader](https://github.com/dest4590/CollapseLoader)** • GUI utility for launching minecraft clients.  
+**[Atlas](https://github.com/dest4590/Atlas)** • Very powerful and fast Spring powered backend for CollapseLoader.  
+**[CollapseScanner](https://github.com/CollapseLoader/CollapseScanner)** • An advanced JAR/class file reverse engineering and analysis tool.
+<br clear="left"/>
+
+---
+
+### ⚡ Anarchy Ecosystem
+<a href="https://github.com/AnarchyLoader/AnarchyLoader"><img src="https://github.com/user-attachments/assets/35bca2fe-d90a-48ec-a1db-303854311e14" align="left" width="70"></a>
+**[AnarchyLoader](https://github.com/AnarchyLoader/AnarchyLoader)** • Experimental solution for hvh.  
+**[AnarchyInjector](https://github.com/AnarchyLoader/AnarchyInjector)** • ManualMap DLL injector for CS2 and CS:GO (with simple VAC bypass).
+<br clear="left"/>
+
+---
+
+### 🍄 ProjectMycelium
+<a href="https://github.com/dest4590/ProjectMycelium"><img src="https://github.com/user-attachments/assets/1656a022-776e-45e8-9f74-d46ae3296136" align="left" width="70"></a>
+**[ProjectMycelium](https://github.com/dest4590/ProjectMycelium)** • Advanced OSINT and social network analysis tool designed to visualize, and analyze relationships.  
+**[ProjectMycelium-Eye](https://github.com/dest4590/ProjectMycelium-Eye)** • Central command-and-control dashboard for the Mycelium ecosystem
+<br clear="left"/>
+
+---
+
+### ☁️ CloudRPC
+<a href="https://github.com/dest4590/CloudRPC"><img src="https://github.com/user-attachments/assets/f7c2e2de-982f-4f91-b920-62b4cb8d4607" align="left" width="70"></a>
+**[CloudRPC](https://github.com/dest4590/CloudRPC)** • Discord RPC support for SoundCloud
+<br clear="left"/>
+
+---
+
+### 🔊 ear-native
+<a href="https://github.com/dest4590/ear-native"><img src="https://github.com/dest4590/ear-native/blob/main/res/icon/logo.png" align="left" width="70"></a>
+**[ear-native](https://github.com/dest4590/ear-native)** • Native Rust desktop client for Nothing and CMF audio devices
+<br clear="left"/>
+
+---
+
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="800">
+</div>
