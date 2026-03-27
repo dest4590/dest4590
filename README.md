@@ -3,16 +3,18 @@
 <h3 align="center">˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅</h3>
 
 <p align="center">
-  <sub>detailed overview of my work</sub>
+  <sub>my work</sub>
 </p>
 
 ---
 
 ### 📦 Collapse Ecosystem
-<a href="https://github.com/dest4590/CollapseLoader"><img src="https://github.com/user-attachments/assets/e072beab-4bba-46f4-b1d2-6016cfbb2ca2" align="left" width="70"></a>
+<a href="https://github.com/dest4590/CollapseLoader"><img src="https://github.com/user-attachments/assets/e072beab-4bba-46f4-b1d2-6016cfbb2ca2" align="left" width="90"></a>
 **[CollapseLoader](https://github.com/dest4590/CollapseLoader)** • GUI utility for launching minecraft clients.  
 **[Atlas](https://github.com/dest4590/Atlas)** • Very powerful and fast Spring powered backend for CollapseLoader.  
-**[CollapseScanner](https://github.com/CollapseLoader/CollapseScanner)** • An advanced JAR/class file reverse engineering and analysis tool.
+**[CollapseScanner](https://github.com/CollapseLoader/CollapseScanner)** • An advanced JAR/class file reverse engineering and analysis tool.  
+**[CollapsePatcher](https://github.com/dest4590/CollapsePatcher)** • Rust utility for embedding a CollapseLoader watermark and encrypting strings in Java JARs.  
+
 <br clear="left"/>
 
 ---
