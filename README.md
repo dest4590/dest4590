@@ -53,7 +53,7 @@
 **languages** • python (mid+), typescript (mid+), java (jr++), rust (jr), c++ (jr)  
 **stack** • spring, postgresql, vue, nuxt  
 **tools & os** • git, docker, ci/cd, windows (preferred), linux (advanced)  
-**focus** • backend development
+**focus** • backend development  
 **cats** • addict
 
 ---
