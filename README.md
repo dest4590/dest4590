@@ -8,7 +8,7 @@
 
 ---
 
-### collapse ecosystem
+### collapse ecosystem (project deprecated, has LTS)
 <a href="https://github.com/dest4590/CollapseLoader"><img src="https://github.com/user-attachments/assets/e072beab-4bba-46f4-b1d2-6016cfbb2ca2" align="left" width="90"></a>
 **[CollapseLoader](https://github.com/dest4590/CollapseLoader)** • gui utility for launching minecraft clients.  
 **[Atlas](https://github.com/dest4590/Atlas)** • powerful and fast spring powered backend for collapseloader.  
@@ -19,7 +19,7 @@
 
 ---
 
-### anarchy ecosystem
+### anarchy ecosystem (project deprecated, has LTS)
 <a href="https://github.com/AnarchyLoader/AnarchyLoader"><img src="https://github.com/user-attachments/assets/35bca2fe-d90a-48ec-a1db-303854311e14" align="left" width="70"></a>
 **[AnarchyLoader](https://github.com/AnarchyLoader/AnarchyLoader)** • experimental solution for hvh.  
 **[AnarchyInjector](https://github.com/AnarchyLoader/AnarchyInjector)** • manualmap dll injector for cs2 and cs:go (with simple vac bypass).
