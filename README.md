@@ -8,7 +8,7 @@
 
 ---
 
-### collapse ecosystem (project deprecated, has LTS)
+### collapse ecosystem
 <a href="https://github.com/dest4590/CollapseLoader"><img src="https://github.com/user-attachments/assets/e072beab-4bba-46f4-b1d2-6016cfbb2ca2" align="left" width="90"></a>
 **[CollapseLoader](https://github.com/dest4590/CollapseLoader)** • gui utility for launching minecraft clients.  
 **[Atlas](https://github.com/dest4590/Atlas)** • powerful and fast spring powered backend for collapseloader.  
