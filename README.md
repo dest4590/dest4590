@@ -3,9 +3,10 @@
 <h3 align="center">˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅</h3>
 
 <p align="center">
-  <sub>my work</sub>
+  <sub>this is my work</sub>
   </br>
   <sub><a href="https://github.com/dest4590/dotfiles">my dotfiles</a></sub>
+  <sub><a href="https://dest4590.duckdns.org/">my website</a></sub>
 </p>
 
 ---
