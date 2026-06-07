@@ -50,8 +50,6 @@
 **[BooruFlow](https://github.com/dest4590/BooruFlow)** • a simple, fast image browser for booru-style sources
 <br clear="left"/>
 
----
-
 <!-- 
 
 ### cloudrpc
