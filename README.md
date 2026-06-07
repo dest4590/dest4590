@@ -38,6 +38,13 @@
 
 ---
 
+### hook-monitor
+<a href="https://github.com/dest4590/HookMonitor"><img src="https://github.com/user-attachments/assets/b998588d-1a4c-48cf-b727-d9488f9e1746" align="left" width="70"></a>
+**[HookMonitor](https://github.com/dest4590/HookMonitor)** • a windows dll that monitors and logs api calls made by a target process  
+<br clear="left"/>
+
+---
+
 ### booruflow
 <a href="https://github.com/dest4590/BooruFlow"><img src="https://github.com/user-attachments/assets/5773830d-a56d-4684-8242-a856bef2f5b7" align="left" width="70"></a>
 **[BooruFlow](https://github.com/dest4590/BooruFlow)** • a simple, fast image browser for booru-style sources
