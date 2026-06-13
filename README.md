@@ -76,6 +76,11 @@
 
 ---
 
+### syscall-tracer
+<a href="https://github.com/dest4590/syscall-tracer">syscall-tracer</a> • eBPF-based Linux syscall tracer written in Rust using aya
+
+---
+
 ### i know this stuff
 **languages** • python (mid+), typescript (mid+), java (jr++), rust (jr), c++ (jr)  
 **stack** • spring, postgresql, vue, nuxt  
