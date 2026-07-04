@@ -1,4 +1,4 @@
-<h3 align="center">˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄</h3>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cc32bcab-4f97-4c60-af0c-c1cfd5574b2b" /><h3 align="center">˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄</h3>
 <h3 align="center">| ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ my projects ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ |</h3>
 <h3 align="center">˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅</h3>
 
@@ -33,21 +33,28 @@
 ### project-mycelium
 <a href="https://github.com/dest4590/ProjectMycelium"><img src="https://github.com/user-attachments/assets/1656a022-776e-45e8-9f74-d46ae3296136" align="left" width="70"></a>
 **[ProjectMycelium](https://github.com/dest4590/ProjectMycelium)** • advanced osint and social network analysis tool designed to visualize and analyze relationships.  
-**[ProjectMycelium-Eye](https://github.com/dest4590/ProjectMycelium-Eye)** • central command-and-control dashboard for the mycelium ecosystem
+**[ProjectMycelium-Eye](https://github.com/dest4590/ProjectMycelium-Eye)** • central command-and-control dashboard for the mycelium ecosystem.
+<br clear="left"/>
+
+---
+
+### gs60-protector
+<a href="https://github.com/dest4590/gs60-protector"><img src="https://github.com/user-attachments/assets/9c79a870-acc1-4240-a0ad-f357810be6d4" align="left" width="70"></a>
+**[](https://github.com/dest4590/gs60-protector)** • a Windows x64 PE packer written in Rust
 <br clear="left"/>
 
 ---
 
 ### hook-monitor
 <a href="https://github.com/dest4590/HookMonitor"><img src="https://github.com/user-attachments/assets/b998588d-1a4c-48cf-b727-d9488f9e1746" align="left" width="70"></a>
-**[HookMonitor](https://github.com/dest4590/HookMonitor)** • a windows dll that monitors and logs api calls made by a target process  
+**[HookMonitor](https://github.com/dest4590/HookMonitor)** • a windows dll that monitors and logs api calls made by a target process.  
 <br clear="left"/>
 
 ---
 
 ### booruflow
 <a href="https://github.com/dest4590/BooruFlow"><img src="https://github.com/user-attachments/assets/5773830d-a56d-4684-8242-a856bef2f5b7" align="left" width="70"></a>
-**[BooruFlow](https://github.com/dest4590/BooruFlow)** • a simple, fast image browser for booru-style sources
+**[BooruFlow](https://github.com/dest4590/BooruFlow)** • a simple, fast image browser for booru-style sources.
 <br clear="left"/>
 
 <!-- 
@@ -63,21 +70,21 @@
 
 ### ear-native
 <a href="https://github.com/dest4590/ear-native"><img src="https://github.com/dest4590/ear-native/blob/main/res/icon/logo.png" align="left" width="70"></a>
-**[ear-native](https://github.com/dest4590/ear-native)** • native rust desktop client for nothing and cmf audio devices
+**[ear-native](https://github.com/dest4590/ear-native)** • native rust desktop client for nothing and cmf audio devices.
 <br clear="left"/>
 
 ---
 
 ### SIGINT
 <a href="https://github.com/dest4590/sigint"><img src="https://github.com/dest4590/sigint/blob/main/icons/sigint.svg" align="left" width="70"></a>
-**[SIGINT](https://github.com/dest4590/sigint)** • desktop application for scanning and logging bluetooth devices  
-**[SIGINT-Android](https://github.com/dest4590/sigint-android)** • same as above, but for android, uses rust .so library
+**[SIGINT](https://github.com/dest4590/sigint)** • desktop application for scanning and logging bluetooth devices.  
+**[SIGINT-Android](https://github.com/dest4590/sigint-android)** • same as above, but for android, uses rust .so library.
 <br clear="left"/>
 
 ---
 
 ### syscall-tracer
-<a href="https://github.com/dest4590/syscall-tracer">syscall-tracer</a> • eBPF-based Linux syscall tracer written in Rust using aya
+<a href="https://github.com/dest4590/syscall-tracer">syscall-tracer</a> • eBPF-based Linux syscall tracer written in Rust using aya.
 
 ---
 
