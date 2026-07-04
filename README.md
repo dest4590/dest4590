@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cc32bcab-4f97-4c60-af0c-c1cfd5574b2b" /><h3 align="center">˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄</h3>
+<h3 align="center">˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄˄</h3>
 <h3 align="center">| ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ my projects ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ |</h3>
 <h3 align="center">˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅</h3>
 
@@ -40,7 +40,7 @@
 
 ### gs60-protector
 <a href="https://github.com/dest4590/gs60-protector"><img src="https://github.com/user-attachments/assets/9c79a870-acc1-4240-a0ad-f357810be6d4" align="left" width="70"></a>
-**[](https://github.com/dest4590/gs60-protector)** • a Windows x64 PE packer written in Rust
+**[gs60-protector](https://github.com/dest4590/gs60-protector)** • a Windows x64 PE packer written in Rust
 <br clear="left"/>
 
 ---
