@@ -52,22 +52,6 @@
 
 ---
 
-### booruflow
-<a href="https://github.com/dest4590/BooruFlow"><img src="https://github.com/user-attachments/assets/5773830d-a56d-4684-8242-a856bef2f5b7" align="left" width="70"></a>
-**[BooruFlow](https://github.com/dest4590/BooruFlow)** • a simple, fast image browser for booru-style sources.
-<br clear="left"/>
-
-<!-- 
-
-### cloudrpc
-<a href="https://github.com/dest4590/CloudRPC"><img src="https://github.com/user-attachments/assets/f7c2e2de-982f-4f91-b920-62b4cb8d4607" align="left" width="70"></a>
-**[CloudRPC](https://github.com/dest4590/CloudRPC)** • discord rpc support for soundcloud
-<br clear="left"/>
-
--->
-
----
-
 ### ear-native
 <a href="https://github.com/dest4590/ear-native"><img src="https://github.com/dest4590/ear-native/blob/main/res/icon/logo.png" align="left" width="70"></a>
 **[ear-native](https://github.com/dest4590/ear-native)** • native rust desktop client for nothing and cmf audio devices.
@@ -80,11 +64,6 @@
 **[SIGINT](https://github.com/dest4590/sigint)** • desktop application for scanning and logging bluetooth devices.  
 **[SIGINT-Android](https://github.com/dest4590/sigint-android)** • same as above, but for android, uses rust .so library.
 <br clear="left"/>
-
----
-
-### syscall-tracer
-<a href="https://github.com/dest4590/syscall-tracer">syscall-tracer</a> • eBPF-based Linux syscall tracer written in Rust using aya.
 
 ---
 
