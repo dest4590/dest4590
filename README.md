@@ -16,7 +16,6 @@
 **[CollapseLoader](https://github.com/dest4590/CollapseLoader)** • gui utility for launching minecraft clients.  
 **[Atlas](https://github.com/dest4590/Atlas)** • powerful and fast spring powered backend for collapseloader.  
 **[CollapseScanner](https://github.com/CollapseLoader/CollapseScanner)** • advanced jar/class file reverse engineering and analysis tool.  
-**[CollapsePatcher](https://github.com/dest4590/CollapsePatcher)** • rust utility for embedding a collapseloader watermark and encrypting strings in java jars.  
 
 <br clear="left"/>
 
@@ -59,14 +58,6 @@
 
 ---
 
-### SIGINT
-<a href="https://github.com/dest4590/sigint"><img src="https://github.com/dest4590/sigint/blob/main/icons/sigint.svg" align="left" width="70"></a>
-**[SIGINT](https://github.com/dest4590/sigint)** • desktop application for scanning and logging bluetooth devices.  
-**[SIGINT-Android](https://github.com/dest4590/sigint-android)** • same as above, but for android, uses rust .so library.
-<br clear="left"/>
-
----
-
 ### i know this stuff
 **languages** • python (mid+), typescript (mid+), java (jr++), rust (jr), c++ (jr)  
 **stack** • spring, postgresql, vue, nuxt  
@@ -77,7 +68,7 @@
 ---
 
 ### currently
-exploring system internals, reverse engineering and high-load architecture  
+exploring malwares, reverse engineering and high-load architecture  
 
 ---
 
