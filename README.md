@@ -29,6 +29,13 @@
 
 ---
 
+### meow-injector
+<a href="https://github.com/dest4590/MeowInjector"><img src="https://github.com/user-attachments/assets/bc7e9076-b6b1-4369-8768-f52bfc95b012" align="left" width="70"></a>
+**[MeowInjector](https://github.com/dest4590/MeowInjector)** • the cutest kernel injector.
+<br clear="left"/>
+
+---
+
 ### project-mycelium
 <a href="https://github.com/dest4590/ProjectMycelium"><img src="https://github.com/user-attachments/assets/1656a022-776e-45e8-9f74-d46ae3296136" align="left" width="70"></a>
 **[ProjectMycelium](https://github.com/dest4590/ProjectMycelium)** • advanced osint and social network analysis tool designed to visualize and analyze relationships.  
