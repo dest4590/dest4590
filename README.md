@@ -36,10 +36,17 @@
 
 ---
 
+### rustcloud
+<a href="https://github.com/dest4590/rustcloud"><img src="https://raw.githubusercontent.com/dest4590/rustcloud/refs/heads/main/public/logo.svg" align="left" width="70"></a>
+**[RustCloud](https://github.com/dest4590/rustcloud)** • soundcloud client with native player
+<br clear="left"/>
+
+---
+
 ### project-mycelium
 <a href="https://github.com/dest4590/ProjectMycelium"><img src="https://github.com/user-attachments/assets/1656a022-776e-45e8-9f74-d46ae3296136" align="left" width="70"></a>
-**[ProjectMycelium](https://github.com/dest4590/ProjectMycelium)** • advanced osint and social network analysis tool designed to visualize and analyze relationships.  
-**[ProjectMycelium-Eye](https://github.com/dest4590/ProjectMycelium-Eye)** • central command-and-control dashboard for the mycelium ecosystem.
+**[ProjectMycelium](https://github.com/dest4590/ProjectMycelium)** • advanced osint and social network analysis tool designed to visualize and analyze relationships  
+**[ProjectMycelium-Eye](https://github.com/dest4590/ProjectMycelium-Eye)** • central command-and-control dashboard for the mycelium ecosystem  
 <br clear="left"/>
 
 ---
@@ -53,14 +60,14 @@
 
 ### hook-monitor
 <a href="https://github.com/dest4590/HookMonitor"><img src="https://github.com/user-attachments/assets/b998588d-1a4c-48cf-b727-d9488f9e1746" align="left" width="70"></a>
-**[HookMonitor](https://github.com/dest4590/HookMonitor)** • a windows dll that monitors and logs api calls made by a target process.  
+**[HookMonitor](https://github.com/dest4590/HookMonitor)** • a windows dll that monitors and logs api calls made by a target process
 <br clear="left"/>
 
 ---
 
 ### ear-native
 <a href="https://github.com/dest4590/ear-native"><img src="https://github.com/dest4590/ear-native/blob/main/res/icon/logo.png" align="left" width="70"></a>
-**[ear-native](https://github.com/dest4590/ear-native)** • native rust desktop client for nothing and cmf audio devices.
+**[ear-native](https://github.com/dest4590/ear-native)** • native rust desktop client for nothing and cmf audio devices
 <br clear="left"/>
 
 ---
