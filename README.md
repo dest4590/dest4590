@@ -103,6 +103,19 @@
       <sub>audio extractor for fmod .bank archives</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/dest4590/nanoproxy">
+        <img src="https://raw.githubusercontent.com/dest4590/nanoproxy/main/assets/logo.svg" width="68" alt="nanoproxy"><br>
+        <b>nanoproxy</b>
+      </a><br>
+      <sub>ultra-lightweight socks5/http proxy</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+    </td>
+    <td align="center" width="33%" valign="top">
+    </td>
+  </tr>
 </table>
 
 </div>
