@@ -21,7 +21,7 @@
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/dest4590/rustcloud">
-        <img src="https://raw.githubusercontent.com/dest4590/rustcloud/refs/heads/main/public/logo.svg" width="68" alt="RustCloud"><br>
+        <img src="https://raw.githubusercontent.com/dest4590/rustcloud/refs/heads/main/assets/brand/logo.svg" width="68" alt="RustCloud"><br>
         <b>RustCloud</b>
       </a><br>
       <sub>soundcloud client with native playback (tauri)</sub>
