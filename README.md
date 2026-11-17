@@ -112,11 +112,11 @@
       <sub>ultra-lightweight socks5/http proxy</sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/dest4590/plasma-icon-tray">
-        <img src="https://raw.githubusercontent.com/dest4590/plasma-icon-tray/main/logo.svg" width="68" alt="plasma-icon-tray"><br>
-        <b>plasma-icon-tray</b>
+      <a href="https://github.com/dest4590/plasma-tweaks">
+        <img src="https://raw.githubusercontent.com/dest4590/plasma-tweaks/main/logo.svg" width="68" alt="plasma-tweaks"><br>
+        <b>plasma-tweaks</b>
       </a><br>
-      <sub>windows-style system tray for kde plasma</sub>
+      <sub>tray &amp; microphone tweaks for kde plasma</sub>
     </td>
     <td align="center" width="33%" valign="top">
     </td>
