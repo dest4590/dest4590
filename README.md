@@ -66,21 +66,12 @@
       <sub>win32 api interception & telemetry dll</sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/dest4590/ProjectMycelium">
-        <img src="https://github.com/user-attachments/assets/1656a022-776e-45e8-9f74-d46ae3296136" width="68" alt="ProjectMycelium"><br>
-        <b>ProjectMycelium</b>
-      </a><br>
-      <sub>social graph crawler & visual analysis suite</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
       <a href="https://github.com/AnarchyLoader/AnarchyLoader">
         <img src="https://github.com/user-attachments/assets/35bca2fe-d90a-48ec-a1db-303854311e14" width="68" alt="AnarchyLoader"><br>
         <b>AnarchyLoader</b>
       </a><br>
       <sub>experimental cs2/csgo hvh injector & loader</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/dest4590/CollapseScanner">
         <img src="https://raw.githubusercontent.com/dest4590/CollapseScanner/main/logo.svg" width="68" alt="CollapseScanner"><br>
@@ -88,6 +79,8 @@
       </a><br>
       <sub>jar/class reverse engineering & triage tool</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/dest4590/traffic-guard">
         <img src="https://raw.githubusercontent.com/dest4590/traffic-guard/main/logo.svg" width="68" alt="traffic-guard"><br>
@@ -102,8 +95,6 @@
       </a><br>
       <sub>audio extractor for fmod .bank archives</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/dest4590/nanoproxy">
         <img src="https://raw.githubusercontent.com/dest4590/nanoproxy/main/assets/logo.svg" width="68" alt="nanoproxy"><br>
@@ -111,12 +102,16 @@
       </a><br>
       <sub>ultra-lightweight socks5/http proxy</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/dest4590/plasma-tweaks">
         <img src="https://raw.githubusercontent.com/dest4590/plasma-tweaks/main/logo.svg" width="68" alt="plasma-tweaks"><br>
         <b>plasma-tweaks</b>
       </a><br>
       <sub>tray &amp; microphone tweaks for kde plasma</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
     </td>
     <td align="center" width="33%" valign="top">
     </td>
